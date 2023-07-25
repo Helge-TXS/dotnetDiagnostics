@@ -1,4 +1,6 @@
-﻿//using System;
+﻿// found here:
+// https://www.tessferrandez.com/blog/2021/03/18/debugging-a-netcore-memory-issue-with-dotnet-dump.html
+
 
 namespace simple_memory_leak;
 
